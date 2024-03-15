@@ -1,0 +1,33 @@
+h1{
+    color: white;
+    background: rgba(0, 0, 0.0.5);
+    width: 500px;
+}
+body{
+    background:url("./marvel-bc.jpg") ;
+    background-repeat:cover ;
+}
+.name{
+    justify-content: space-around;
+    color: white;
+    display: flex;
+    background-color: rgba(0, 0, 0,0.5);
+
+}
+.ta{
+    background: rgba(0, 0, 0,0.5);
+    width: 1000px;
+    height: 400px;
+    margin: auto;
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+img{
+    width: 120px;
+    height: 120px;
+    justify-content: space-between;
+    border-radius: 50% 0 50% 0;
+    
+}
